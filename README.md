@@ -21,11 +21,15 @@ NAWS is designed with a focus on security, transparency, and decentralization. I
 - Total Supply: 10,000,000,000 NAWS
 - Contract Address(BEP-20): 0x726a54E04f394b6e44e58a2D7CB0fEc61361D10E
 - Decimals: 18
-- Audit: [CertiK Audit Report](./document/naws_audit_by_certik.pdf.pdf)
+
+## Documents
+- Audit: [CertiK Audit Report](./document/naws_audit_by_certik.pdf)
+- [Whitepaper (EN)](https://s3.ap-northeast-2.amazonaws.com/cdn.naws.ai/wp/naws_ai_whitepaper_en.pdf)
+- [Whitepaper (KR)](https://s3.ap-northeast-2.amazonaws.com/cdn.naws.ai/wp/naws_ai_whitepaper_kr.pdf)
 
 ## Test
- npx hardhat compile
- npx hardhat test
+npx hardhat compile
+npx hardhat test
 
 ## License
 This project is licensed under the MIT License.
