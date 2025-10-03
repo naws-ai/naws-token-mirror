@@ -21,7 +21,7 @@ NAWS is designed with a focus on security, transparency, and decentralization. I
 - Total Supply: 10,000,000,000 NAWS
 - Contract Address(BEP-20): 0x726a54E04f394b6e44e58a2D7CB0fEc61361D10E
 - Decimals: 18
-- Audit: https://skynet.certik.com/projects/naws-ai
+- Audit: [CertiK Audit Report](./document/naws_audit_by_certik.pdf.pdf)
 
 ## Test
  npx hardhat compile
